@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ClientAppMonThu</string>
+
+
+    <string name="admob_id">ca-app-pub-9372372238168862~1201882712</string>
+    <!--Test Ads-->
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstital_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="reward_id">ca-app-pub-3940256099942544/5224354917</string>
+
+
+
+
+<!--    RealAds-->
+    <!--<string name="banner_id">ca-app-pub-2916676673727681/6336611781</string>
+    <string name="interstital_id">ca-app-pub-2916676673727681/6145040099</string>
+    <string name="reward_id">ca-app-pub-2916676673727681/3983294076</string>
+-->
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
